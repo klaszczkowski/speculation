@@ -1,0 +1,7 @@
+{
+  "name": "Speculation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
